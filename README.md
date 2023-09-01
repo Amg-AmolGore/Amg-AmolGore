@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amg-AmolGore
 - 👀 I’m interested in Embedded system devlopment 
 - 🌱 I’m currently learning Customized Embedded linux system development using the yocto.
-- 💞️ I’m looking to collaborate on yocto, AI , Machine learning and Autonomous vehicles
+- 💞️ I’m looking to collaborate on yocto, AI , Machine learning and Autonomous vehicles development.
 - 📫 How to reach me amolgore.allusr@gmail.com
 
 <!---
